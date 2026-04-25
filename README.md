@@ -24,7 +24,7 @@ This app predicts house prices based on various features such as overall quality
 
 1. Clone the repository
 ```bash
-   git clone https://github.com/Nikhil-Vaishnav-17/house-price-ml.git
+   git clone https://github.com/Nikhil-Vaishnav-17/house-price-predictor.git
    cd house-price-ml
 ```
 

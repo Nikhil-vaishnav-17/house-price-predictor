@@ -9,4 +9,7 @@ wheels/
 # Virtual environments
 .venv
 .DS_Store
-uv.lock
+
+mlruns/
+mlartifacts/
+mlflow.db
